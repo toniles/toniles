@@ -1,16 +1,64 @@
-### Hi there 👋
+<pre>
 
-<!--
-**toniles/toniles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+              ,---------------------------,
+              |  /---------------------\  |
+              | |                       | |
+              | |  🌟  Welcome to       | | 
+              | |   Antonio's portfolio!| |  
+              | |         🐔           | |
+              | |                       | |
+              | |                       | |
+              |  \_____________________/  |
+              |___________________________|
+            ,---\_____     []     _______/------,
+          /         /______________\           /|
+        /___________________________________ /  | ___
+        |                                   |   |    )
+        |  _ _ _                 [-------]  |   |   (
+        |  o o o                 [-------]  |  /    _)_
+        |__________________________________ |/     /  /
+    /-------------------------------------/|      ( )/
+  /-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/ /
+/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/ /
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Here are some ideas to get you started:
+</pre>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact ☏:
+
+- [antonio.sanchez.develop@gmail.com](mailto:antonio.sanchez.develop@gmail.com)
+
+## Languages and Tools I'm using ⚒:
+
+**OS:**
+- Linux (mainly Ubuntu, sometimes Fedora). In love with Bash scripting.
+- Windows
+
+**Frontend Development:**
+- HTML
+- CSS
+- JavaScript (JS)
+- TypeScript (TS)
+- React
+- React Native
+- Next.js
+
+**Backend Development:**
+- Python
+- C++
+- Node.js
+- AWS
+
+**Database Management:**
+- MySQL
+- MongoDB
+
+**Additional Tools:**
+- QT
+- Git
+- Docker
+
+
+
+
+
