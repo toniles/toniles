@@ -24,20 +24,6 @@
 
 </pre>
 
-## Contact ☏:
-
-- [antonio.sanchez.develop@gmail.com](mailto:antonio.sanchez.develop@gmail.com)
-
-## Languages and Tools I'm using ⚒:
-
-| Categoría           | Tecnologías                                      |
-| :------------------ | :----------------------------------------------- |
-| **OS**              | Linux (Ubuntu, Fedora), Windows                  |
-| **Frontend Dev**    | HTML, CSS, JavaScript, TypeScript, React, React Native, Next.js |
-| **Backend Dev**     | Python, C++, Node.js, AWS                        |
-| **Database Mgmt**   | MySQL, MongoDB                                   |
-| **Herramientas Adicionales** | QT, Git, Docker                         |
-
 
 ## Repositories
 
@@ -53,6 +39,18 @@
 | AutoHotkey                    | AUTOHOTKEY_EXAMPLES                                   | [Ver Repositorio](https://github.com/toniles/AUTOHOTKEY_EXAMPLES)        |
 
 
+## Languages and Tools I'm using ⚒:
 
+| Categoría           | Tecnologías                                      |
+| :------------------ | :----------------------------------------------- |
+| **OS**              | Linux (Ubuntu, Fedora), Windows                  |
+| **Frontend Dev**    | HTML, CSS, JavaScript, TypeScript, React, React Native, Next.js |
+| **Backend Dev**     | Python, C++, Node.js, AWS                        |
+| **Database Mgmt**   | MySQL, MongoDB                                   |
+| **Herramientas Adicionales** | QT, Git, Docker                         |
+
+## Contact ☏:
+
+- [antonio.sanchez.develop@gmail.com](mailto:antonio.sanchez.develop@gmail.com)
 
 
