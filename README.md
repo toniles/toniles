@@ -25,7 +25,7 @@
 </pre>
 
 
-## Repositories
+## 📦 Repositories 📦
 
 | Categoría                     | Nombre del Repositorio                                | Enlace al Repositorio                                                    |
 | :---------------------------- | :---------------------------------------------------- | :----------------------------------------------------------------------- |
@@ -39,7 +39,7 @@
 | AutoHotkey                    | AUTOHOTKEY_EXAMPLES                                   | [Ver Repositorio](https://github.com/toniles/AUTOHOTKEY_EXAMPLES)        |
 
 
-## Languages and Tools I'm using ⚒:
+## ⚒ Languages and Tools I'm using ⚒
 
 | Categoría           | Tecnologías                                      |
 | :------------------ | :----------------------------------------------- |
@@ -49,7 +49,7 @@
 | **Database Mgmt**   | MySQL, MongoDB                                   |
 | **Herramientas Adicionales** | QT, Git, Docker                         |
 
-## Contact ☏:
+## ☏ Contact ☏
 
 - [antonio.sanchez.develop@gmail.com](mailto:antonio.sanchez.develop@gmail.com)
 
