@@ -27,7 +27,7 @@
 
 ## 📦 Repositories 📦
 
-| Categoría                     | Nombre del Repositorio                                | Enlace al Repositorio                                                    |
+| Category                      | Repo                                                  | Link                                                                     |
 | :---------------------------- | :---------------------------------------------------- | :----------------------------------------------------------------------- |
 | Animation and fractal geometry| sierpinski-animations                                 | [Ver Repositorio](https://github.com/toniles/sierpinski-animations)      |
 | Python Scripting              | PDF-Image-Deck-Generator                              | [Ver Repositorio](https://github.com/toniles/PDF-Image-Deck-Generator)   |
@@ -41,7 +41,7 @@
 
 ## ⚒ Languages and Tools I'm using ⚒
 
-| Categoría           | Tecnologías                                      |
+| Category            | Techs                                            |
 | :------------------ | :----------------------------------------------- |
 | **OS**              | Linux (Ubuntu, Fedora), Windows                  |
 | **Frontend Dev**    | HTML, CSS, JavaScript, TypeScript, React, React Native, Next.js |
