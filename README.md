@@ -30,33 +30,27 @@
 
 ## Languages and Tools I'm using ⚒:
 
-**OS:**
-- Linux (mainly Ubuntu, sometimes Fedora). In love with Bash scripting.
-- Windows
+| Categoría           | Tecnologías                                      |
+| :------------------ | :----------------------------------------------- |
+| **OS**              | Linux (Ubuntu, Fedora), Windows                  |
+| **Frontend Dev**    | HTML, CSS, JavaScript, TypeScript, React, React Native, Next.js |
+| **Backend Dev**     | Python, C++, Node.js, AWS                        |
+| **Database Mgmt**   | MySQL, MongoDB                                   |
+| **Herramientas Adicionales** | QT, Git, Docker                         |
 
-**Frontend Development:**
-- HTML
-- CSS
-- JavaScript (JS)
-- TypeScript (TS)
-- React
-- React Native
-- Next.js
 
-**Backend Development:**
-- Python
-- C++
-- Node.js
-- AWS
+## Repositories
 
-**Database Management:**
-- MySQL
-- MongoDB
-
-**Additional Tools:**
-- QT
-- Git
-- Docker
+| Categoría                     | Nombre del Repositorio                                | Enlace al Repositorio                                                    |
+| :---------------------------- | :---------------------------------------------------- | :----------------------------------------------------------------------- |
+| Animation and fractal geometry| sierpinski-animations                                 | [Ver Repositorio](https://github.com/toniles/sierpinski-animations)      |
+| Python Scripting              | PDF-Image-Deck-Generator                              | [Ver Repositorio](https://github.com/toniles/PDF-Image-Deck-Generator)   |
+| C++ Development               | theta-beta-ratio                                      | [Ver Repositorio](https://github.com/toniles/theta-beta-ratio)           |
+| Shell Scripting               | Disk.Partition-Creation-Date-Logger-Linux             | [Ver Repositorio](https://github.com/toniles/Disk.Partition-Creation-Date-Logger-Linux) |
+|                               | BASH-FedoraPyQt6NvidiaSetup                           | [Ver Repositorio](https://github.com/toniles/BASH-FedoraPyQt6NvidiaSetup) |
+|                               | BASH-Dual-Boot-USB-Creator-with-Data-Storage          | [Ver Repositorio](https://github.com/toniles/BASH-Dual-Boot-USB-Creator-with-Data-Storage) |
+|                               | bash-script-for-automated-fsck-on-linux_autocheck-and-repair-disk-partition | [Ver Repositorio](https://github.com/toniles/bash-script-for-automated-fsck-on-linux_autocheck-and-repair-disk-partition) |
+| AutoHotkey                    | AUTOHOTKEY_EXAMPLES                                   | [Ver Repositorio](https://github.com/toniles/AUTOHOTKEY_EXAMPLES)        |
 
 
 
