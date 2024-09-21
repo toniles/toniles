@@ -22,8 +22,8 @@ Although many of my **web development** and **AI** projects are in private repos
 
 | Category                      | Repo                                                  | Link                                                                     |
 | :---------------------------- | :---------------------------------------------------- | :----------------------------------------------------------------------- |
-| 🎨 Animation and fractal geometry | sierpinski-animations                                 | [🔗 View Repo](https://github.com/toniles/sierpinski-animations)      |
-| 🐍 Python Scripting               | PDF-Image-Deck-Generator                              | [🔗 View Repo](https://github.com/toniles/PDF-Image-Deck-Generator)   |
+| 🐍 Python Scripting           | sierpinski-animations                                 | [🔗 View Repo](https://github.com/toniles/sierpinski-animations)      |
+|                                  | PDF-Image-Deck-Generator                              | [🔗 View Repo](https://github.com/toniles/PDF-Image-Deck-Generator)   |
 |                                | tkinter-excel-data-sql-process                        | [🔗 View Repo](https://github.com/toniles/tkinter-excel-data-sql-process) |
 |                                | SQL-GUI-comment-remover-auto                          | [🔗 View Repo](https://github.com/toniles/SQL-GUI-comment-remover-auto) |
 | 🛠️ C++ Development                | theta-beta-ratio                                      | [🔗 View Repo](https://github.com/toniles/theta-beta-ratio)           |
