@@ -9,12 +9,13 @@
 ---
 
 ### 🌟 About Me 🌟
-Hi! I'm Antonio, a software developer with a deep passion for **Artificial Intelligence**, **automation**, and **web development**. I love exploring technologies and working on creative solutions in my side projects, while my main job focuses on database management and backend development.
+Hi! I'm Antonio, a developer with a background in **psychology** and **speech therapy**, and over 3 years of experience working in **pediatric neurophysiology** at one of the leading centers in Spain. During my career, I worked with cutting-edge technologies, specializing in **theta-beta ratio analysis** and **EEG signal processing**. I've also spent 6 years as a speech therapist.
 
-- 🤖 **Side Projects**: Focused on **AI**, **automation**, and **web development** with **React**, **Next.js**.
-- 🖥️ **Main Job**: Working with **SQL Server 2016**, **Java**, and **T-SQL**.
+Now, I focus my side projects on **AI**, **automation**, and **web development**, often applying my knowledge from the medical and neurophysiology fields to create specialized software solutions.
 
-Although many of my **web development** and **AI** projects are in private repositories, I'm currently mastering **React** apps and **automation tools**.
+- 🤖 **Side Projects**: Building **AI** models, **automation tools**, and **web applications** with **React**, **Next.js**, and **Python**.
+- 🛠️ **Proud of**: My work on **theta-beta ratio** analysis, which applies neurophysiology concepts to signal processing and mental health research.
+- 🖥️ **Main Job**: Working with **SQL Server 2016**, **T-SQL**, and **Java** in database management.
 
 ---
 
@@ -22,15 +23,15 @@ Although many of my **web development** and **AI** projects are in private repos
 
 | Category                      | Repo                                                  | Link                                                                     |
 | :---------------------------- | :---------------------------------------------------- | :----------------------------------------------------------------------- |
-| 🐍 Python Scripting           | sierpinski-animations                                 | [🔗 View Repo](https://github.com/toniles/sierpinski-animations)      |
-|                                  | PDF-Image-Deck-Generator                              | [🔗 View Repo](https://github.com/toniles/PDF-Image-Deck-Generator)   |
+| 🐍 Python Scripting            | sierpinski-animations                                 | [🔗 View Repo](https://github.com/toniles/sierpinski-animations)      |
+|                                | PDF-Image-Deck-Generator                              | [🔗 View Repo](https://github.com/toniles/PDF-Image-Deck-Generator)   |
 |                                | tkinter-excel-data-sql-process                        | [🔗 View Repo](https://github.com/toniles/tkinter-excel-data-sql-process) |
 |                                | SQL-GUI-comment-remover-auto                          | [🔗 View Repo](https://github.com/toniles/SQL-GUI-comment-remover-auto) |
-| 🛠️ C++ Development                | theta-beta-ratio                                      | [🔗 View Repo](https://github.com/toniles/theta-beta-ratio)           |
-| 🖥️ Shell Scripting                | Disk.Partition-Creation-Date-Logger-Linux             | [🔗 View Repo](https://github.com/toniles/Disk.Partition-Creation-Date-Logger-Linux) |
-| ⌨️ AutoHotkey                    | AUTOHOTKEY_EXAMPLES                                   | [🔗 View Repo](https://github.com/toniles/AUTOHOTKEY_EXAMPLES)        |
-| 💻 Web Development (Private)    | React & Next.js Projects                               | 🚧 *Private Repos* 🚧            |
-| 🤖 AI and Automation Projects    | Machine Learning Pipelines                             | 🚧 *Private Repos* 🚧    |
+| 🧠 C++ Neurophysiology & Signal Processing | theta-beta-ratio                           | [🔗 View Repo](https://github.com/toniles/theta-beta-ratio)           |
+| 🖥️ Shell Scripting             | Disk.Partition-Creation-Date-Logger-Linux             | [🔗 View Repo](https://github.com/toniles/Disk.Partition-Creation-Date-Logger-Linux) |
+| ⌨️ AutoHotkey                  | AUTOHOTKEY_EXAMPLES                                   | [🔗 View Repo](https://github.com/toniles/AUTOHOTKEY_EXAMPLES)        |
+| 💻 Web Development (Private)   | React & Next.js Projects                              | 🚧 *Private Repos* 🚧                                                   |
+| 🤖 AI and Automation Projects  | Machine Learning Pipelines                            | 🚧 *Private Repos* 🚧                                                   |
 
 ---
 
