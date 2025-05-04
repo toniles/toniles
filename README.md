@@ -13,9 +13,9 @@ Hi! I'm Antonio, a developer with a background in **psychology** and **speech th
 
 Now, I focus my side projects on **AI**, **automation**, and **web development**, often applying my knowledge from the medical and neurophysiology fields to create specialized software solutions.
 
-- 🤖 **Side Projects**: Building **AI** models, **automation tools**, and **web applications** with **React**, **Next.js**, and **Python**.
+- 🤖 **Side Projects**: Building **automation tools**, and **web applications** with **React**, **Next.js**, and **Python**.
 - 🛠️ **Proud of**: My work on **theta-beta ratio** analysis, which applies neurophysiology concepts to signal processing and mental health research.
-- 🖥️ **Main Job**: Working with **SQL Server 2016**, **T-SQL**, and **Java** in database management.
+- 🖥️ **Main Job**: Working in database management.
 
 ---
 
