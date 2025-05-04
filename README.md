@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F724D7&center=true&vCenter=true&width=500&lines=%F0%9F%8E%89+Welcome+to+my+GitHub+Profile+%F0%9F%8E%89;AI+and+Automation+Enthusiast+%F0%9F%A4%96;Web+Developer+%F0%9F%92%BB;T-SQL+and+SQL+Server+Pro+%F0%9F%93%88" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F724D7&center=true&vCenter=true&width=500&lines=%F0%9F%8E%89+Welcome+to+my+GitHub+Profile+%F0%9F%8E%89;AI+and+Automation+Enthusiast+%F0%9F%A4%96;Web+Developer+%F0%9F%92%BB;sql+%F0%9F%93%88" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -21,17 +21,25 @@ Now, I focus my side projects on **AI**, **automation**, and **web development**
 
 ### 📦 Repositories 📦
 
-| Category                      | Repo                                                  | Link                                                                     |
-| :---------------------------- | :---------------------------------------------------- | :----------------------------------------------------------------------- |
-| 🐍 Python Scripting            | sierpinski-animations                                 | [🔗 View Repo](https://github.com/toniles/sierpinski-animations)      |
-|                                | PDF-Image-Deck-Generator                              | [🔗 View Repo](https://github.com/toniles/PDF-Image-Deck-Generator)   |
-|                                | tkinter-excel-data-sql-process                        | [🔗 View Repo](https://github.com/toniles/tkinter-excel-data-sql-process) |
-|                                | SQL-GUI-comment-remover-auto                          | [🔗 View Repo](https://github.com/toniles/SQL-GUI-comment-remover-auto) |
-| 🧠 C++ Neurophysiology & Signal Processing | theta-beta-ratio                           | [🔗 View Repo](https://github.com/toniles/theta-beta-ratio)           |
-| 🖥️ Shell Scripting             | Disk.Partition-Creation-Date-Logger-Linux             | [🔗 View Repo](https://github.com/toniles/Disk.Partition-Creation-Date-Logger-Linux) |
-| ⌨️ AutoHotkey                  | AUTOHOTKEY_EXAMPLES                                   | [🔗 View Repo](https://github.com/toniles/AUTOHOTKEY_EXAMPLES)        |
-| 💻 Web Development (Private)   | React & Next.js Projects                              | 🚧 *Private Repos* 🚧                                                   |
-| 🤖 AI and Automation Projects  | Machine Learning Pipelines                            | 🚧 *Private Repos* 🚧                                                   |
+| Category                           | Repo                                                   | Link                                                                     |
+| :--------------------------------- | :----------------------------------------------------- | :----------------------------------------------------------------------- |
+| 🐍 Python Scripting                | sierpinski-animations                                  | [🔗 View Repo](https://github.com/toniles/sierpinski-animations)         |
+|                                    | PDF-Image-Deck-Generator                              | [🔗 View Repo](https://github.com/toniles/PDF-Image-Deck-Generator)      |
+|                                    | tkinter-excel-data-sql-process                        | [🔗 View Repo](https://github.com/toniles/tkinter-excel-data-sql-process)|
+|                                    | SQL-GUI-comment-remover-auto                          | [🔗 View Repo](https://github.com/toniles/SQL-GUI-comment-remover-auto)  |
+|                                    | txt_to_csv                                            | [🔗 View Repo](https://github.com/toniles/txt_to_csv)                    |
+|                                    | VisualIndicatorWindowsDesktop                         | [🔗 View Repo](https://github.com/toniles/VisualIndicatorWindowsDesktop) |
+| 🧠 C++ Neurophysiology & Signal Processing | theta-beta-ratio                           | [🔗 View Repo](https://github.com/toniles/theta-beta-ratio)              |
+| ⚡ PowerShell Utilities            | nightly-shutdown                                       | [🔗 View Repo](https://github.com/toniles/nightly-shutdown)              |
+| 🖥️ Shell Scripting                | Disk.Partition-Creation-Date-Logger-Linux             | [🔗 View Repo](https://github.com/toniles/Disk.Partition-Creation-Date-Logger-Linux) |
+|                                    | BASH-FedoraPyQt6NvidiaSetup                           | [🔗 View Repo](https://github.com/toniles/BASH-FedoraPyQt6NvidiaSetup)   |
+|                                    | BASH-Dual-Boot-USB-Creator-with-Data-Storage          | [🔗 View Repo](https://github.com/toniles/BASH-Dual-Boot-USB-Creator-with-Data-Storage) |
+|                                    | bash-script-for-automated-fsck-on-linux_autocheck-and-repair-disk-partition | [🔗 View Repo](https://github.com/toniles/bash-script-for-automated-fsck-on-linux_autocheck-and-repair-disk-partition) |
+|                                    | windows-server-folder-detective                       | [🔗 View Repo](https://github.com/toniles/windows-server-folder-detective) |
+| ⌨️ AutoHotkey                       | AUTOHOTKEY_EXAMPLES                                   | [🔗 View Repo](https://github.com/toniles/AUTOHOTKEY_EXAMPLES)           |
+| 💻 Web Development (Private)        | React & Next.js Projects                              | 🚧🚧                                                    |
+| 🤖 AI and Automation Projects       | Machine Learning Pipelines                            | 🚧🚧                                                    |
+
 
 ---
 
@@ -46,15 +54,6 @@ Now, I focus my side projects on **AI**, **automation**, and **web development**
 | **Database Mgmt**   | SQL Server 2016, T-SQL, MySQL, MongoDB           |
 | **Main Work Tools** | Java, T-SQL, SQL Server, SSMS                    |
 | **Herramientas Adicionales** | Docker, Git, CI/CD, Bash Scripting      |
-
----
-
-### 📊 GitHub Stats 📊
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=toniles&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toniles&layout=compact&theme=radical" alt="Most Used Languages" />
-</p>
 
 ---
 
